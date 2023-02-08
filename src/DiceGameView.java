@@ -40,7 +40,7 @@ public class DiceGameView extends JFrame{
     }
 
     public void paint(Graphics g){
-        g.drawImage()
+        g.drawImage();
     }
 
 }
